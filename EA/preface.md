@@ -24,7 +24,7 @@ b. 企业架构是绑定用于实现企业业务和IT策略愿景的程序和项
 
 下面我们再反过来回顾一下上文EA定义语句中的红色部分的词汇，看看通过上面的描述，应该如何理解这些词汇：  
 	* architecture models：EA本质上是一种参考模型，它提供了多种形式的模型  
-	* governance：EA确保架构被维护和使用  
+	* governance：EA确保架构能够被维护和使用  
 	* transition initiatives：EA强调主动(proactive)而不是被动的反应(reactive)  
 	* semi-autonomous groups: EA强调多部门联动和合作  
 	* business and/or IT goals：EA致力于解决业务和IT的问题
