@@ -3,7 +3,7 @@
 
 1. 什么叫做EA(Enterprise Architecture)  
 a.IBM如何定义EA  
-"The EA discipline defines and maintains the architecture **<font color="red">models, governance and transition initiatives</font>** needed to effectively co-ordinate semi-autonomous groups towards common business and/or IT goals".  
+"The EA discipline defines and maintains the architecture **<font color="red">models, governance and transition initiatives</font>** needed to effectively coordinate semi-autonomous groups towards common business and/or IT goals".  
 企业架构定义和维护架构模型，治理以及过渡措施，有效地协调半自治组织向通用的业务和IT架构过渡。  
 b. 企业架构是绑定用于实现企业业务和IT策略愿景的程序和项目的粘合剂.  
 **策略**：识别和计划企业业务和IT项目的组合（portfolio）  
@@ -11,7 +11,7 @@ b. 企业架构是绑定用于实现企业业务和IT策略愿景的程序和项
 **解决方案设计**：运用构件块设计解决方案  
 怎么样？很抽象吧？那我来具象的解释一下企业架构
 
-2. 总的来说，企业架构是一种策略工具：  
+2. 总的来说，企业架构是一种策略工具，用于支持企业IT转型：  
 举个例子，拿建造城市来说，策略相当于城市的总体目标，企业架构相当于城市的建造计划，系统设计相当于城市的建筑物。  
 企业架构不只是架构！！！  
 事实上，企业架构是企业战略意图的具体提现，是由企业**业务架构**和**IT架构**组成的.  
